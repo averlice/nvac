@@ -1,0 +1,4 @@
+simple_acme_dns
+cryptography
+dnspython
+wxPython
